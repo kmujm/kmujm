@@ -2,6 +2,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmujm&theme=buefy)](https://github.com/kmujm)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmujm&layout=compact)](https://github.com/kmujm)
+
+
 <!--
 **kmujm/kmujm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
