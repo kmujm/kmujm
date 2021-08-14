@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![image](https://user-images.githubusercontent.com/65996166/129448010-536d7817-d480-413c-9d65-d9d03d639be8.png)
+🛠 Tech Stack 🛠
