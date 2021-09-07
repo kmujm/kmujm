@@ -32,5 +32,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/css-1572B6?style=plat&logo=css3&logoColor=white"> 
 <img src="https://img.shields.io/badge/django-092E20?style=plat&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=plat&logo=github&logoColor=white"> 
-<img src="https://img.shields.io/badge/linux-FCC624?style=plat&logo=linux&logoColor=black">
 
