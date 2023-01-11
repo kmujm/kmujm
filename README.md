@@ -25,12 +25,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C++-00599C?style=plat&logo=C++&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=plat&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/typescript-3178C6?style=plat&logo=typescript&logoColor=white"> 
-<img src="https://img.shields.io/badge/jquery-0769AD?style=plat&logo=jquery&logoColor=white"> 
 <img src="https://img.shields.io/badge/react-61DAFB?style=plat&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/angular-DD0031?style=plat&logo=angular&logoColor=white">
 <img src="https://img.shields.io/badge/html-E34F26?style=plat&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/css-1572B6?style=plat&logo=css3&logoColor=white"> 
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/django-092E20?style=plat&logo=django&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=plat&logo=github&logoColor=white"> 
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Python&logoColor=white"/>
